@@ -17,5 +17,13 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+# 说明
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+>  项目使用了vue + element 作为管理系统 ^_^
+
+>  功能有 权限系统集成，excel导出，图表数据分析
+
+>  开发环境 windows  nodejs 8.5
+
+
