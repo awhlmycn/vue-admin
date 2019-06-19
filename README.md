@@ -26,4 +26,8 @@ npm run build --report
 
 >  开发环境 windows  nodejs 8.5
 
+# 效果展示
+![image](https://github.com/awhlmycn/vue-admin/blob/master/demo/1.png)
+![image](https://github.com/awhlmycn/vue-admin/blob/master/demo/2.png)
+![image](https://github.com/awhlmycn/vue-admin/blob/master/demo/3.png)
 
